@@ -5,7 +5,7 @@ Você pode acessar meu portifolio online atravez desse link [ACESSAR PORTIFOLIO]
 ### Sobre mim
 Meu nome é Lucas Camarinho, tenho 24 anos e faço Análise e Desenvolvimento de Sistemas.
 
-Tenho uma página web chamada [My Code Library][link-MyCodeLibrary], com objtivo de ser uma grande biblioteca de códigos para documentar meu aprendizado, de maneira que possa ser revisitado e reestudado.
+Tenho uma página web chamada [My Code Library][link-MyCodeLibrary], com objtivo de ser uma grande biblioteca de códigos e documentar todo meu aprendizado, de maneira que possa ser revisitado e reestudado.
 
 Sou criador da [Taggui Softwares][link-TagguiSoftwares], um CNPJ que uso para publicar meus projetos pessoais online nas principais lojas de aplicativos.
 
